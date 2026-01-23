@@ -1,1 +1,8 @@
-
+{
+  "services_impacted": ["payment-service"],
+  "suspected_cause": "timeout during calls to orders-service",
+  "context_retrieved": [
+    "retry flag enabled in deployment v2.14",
+    "known incident from 2025-11 related to retry logic"
+  ]
+}

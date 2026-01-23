@@ -1,1 +1,2 @@
-
+Embedding input text:
+"Payment retries failing after deployment, timeout to orders-service"

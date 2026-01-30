@@ -1,4 +1,4 @@
-📌 This blog post was submitted to the Elastic Blog-a-thon Contest and is eligible to win a prize.
+📌 This blog post was submitted as part of the Elastic Blogathon.
 
 
 # agentic-rca-assistant

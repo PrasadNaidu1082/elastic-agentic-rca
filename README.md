@@ -27,7 +27,7 @@ The RCA assistant works as a lightweight layer on top of existing microservices.
 
 **Figure 1: System Architecture**
 
-![architecture-diagram](architecture/architecture-diagram.png)
+![architecture-diagram](agent elastic stack architecture .png.png)
 
 ---
 
